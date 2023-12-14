@@ -12,7 +12,7 @@
 
 - Function names should be concise yet accurately descriptive of the function's purpose, avoiding unnecessary additional functionalities.
 
-- Control flow statements are statements that control the order in which lines of code are executed. These control statements include the if/else statements, switch statements, and various types of loops.
+- Control flow statements are statements that control the order in which lines of code are executed. These control statements include the if/else statements, switch statements, and various types of loops such as for loop, while loop, do...while loop, etc. 
 
 - Array methods are simply the different ways to manipulate or carry out operations on arrays.
  Methods like pop() removes element at the end of an array, while push() adds an element at the end.
